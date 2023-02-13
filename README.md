@@ -9,7 +9,7 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
 <ul>
   <li><a href="#first-step-dev">Primeira etapa do desenvolvimento</a></li>
   <li><a href="#folder-structure">Estruturas de pastas</a></li>
-  <li><a href="#solid">Solid</a></li>
+  <li><a href="#solid">SOLID</a></li>
 </ul>
 
 <br/>
@@ -22,6 +22,7 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
 >  <li>O que será o projeto</li>
 >  <li>O que será usado no projeto</li>
 >  <li>Quais features o projeto terá</li>
+>  <li>Como será o funcionamento do projeto</li>
 > </ul>
 >
 > Um caminho a pecorrer é importante, sem ele o desenvolvedor ficará perdido, sem saber o que fazer, implementar e remover
@@ -29,6 +30,9 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
 <details>
 <summary>Projeto de exemplo</summary>
 
+
+> Sistema de cadastro / login automático por serial
+>
 > - [x] s
 
 </details>
