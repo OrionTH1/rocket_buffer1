@@ -19,23 +19,25 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
 
 > A primeira etapa do desenvolvimento é o pensamento, a criação do algoritmo, é preciso pensar em:
 > <ul>
->  <li>O que será o projeto - <a href="#first-step">1</a></li>
->  <li>O que será usado no projeto - <a href="#second-step">2</a></li>
->  <li>Quais features o projeto terá - <a href="#third-step">3</a></li>
->  <li>Como será o funcionamento do projeto - <a href="#fourth-step">4</a></li>
+  >  <li>O que será o projeto;</li>
+  >  <li>O que será usado no projeto;</li>
+  >  <li>Quais features o projeto terá;</li>
+  >  <li>Como será o funcionamento do projeto.</li>
 > </ul>
 >
 > Um caminho a pecorrer é importante, sem ele o desenvolvedor ficará perdido, sem saber o que fazer, implementar e remover
 
-<details open>
-<summary><h3>Projeto de exemplo</h3></summary>
+Ir para o <a href="#folder-structure">próximo tópico</a>
+
+<details>
+<summary><h3>Exemplo de projeto</h3></summary>
   
   > <h4>Sistema de cadastro / login automático por serial</h4>
   >
-  > 1. <span id="first-step">Um sistema de cadastro e um login automático por serial. </span>
+  > 1. Um sistema de cadastro e um login automático por serial.
   > <br/>
   >
-  > 2. <span id="second-step">O que será usado no projeto: </span>
+  > 2. O que será usado no projeto:
   >
   >     - [ ] Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, confirmarSenha)
   >
@@ -49,7 +51,7 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
   >     
   > <br/>
   > 
-  > 3. <span id="third-step">Features: </span>
+  > 3. Features:
   > 
   >     - [ ] Cadastro com usuário e senha
   >     
@@ -62,19 +64,20 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
   > 
   > <br/>
   > 
-  > 4. <span id="fourth-step">Funcionamento: </span>
+  > 4. Funcionamento:
   > 
-  >     1- Quando o player entrar pegue o seu serial e verifique se ele está existente no banco de dados: (Se sim pule para a etapa 6, se não continue).
+  > 
+  >     **1.** Quando o player entrar pegue o seu serial e verifique se ele está existente no banco de dados: (Se sim pule para a etapa 6, se não continue).
   >     
-  >     2- Mostre a tela de cadastro e capture todas a informações digitadas nos campos(Usuário, Senha, comfirmarSenha.
+  >     **2.** Mostre a tela de cadastro e capture todas a informações digitadas nos campos(Usuário, Senha, comfirmarSenha.
   >     
-  >     3- Verique se as senhas dos campos(senha, confirmarSenha) são iguais.
+  >     **3.** Verique se as senhas dos campos(senha, confirmarSenha) são iguais.
   >     
-  >     4- Crie uma conta com todas as informações capturadas dos campo.
+  >     **4.** Crie uma conta com todas as informações capturadas dos campo.
   >     
-  >     5- Envie para o banco de Dados todas as informações capturadas no processo (Serial, Usuário, Senha)
+  >     **5.** Envie para o banco de Dados todas as informações capturadas no processo (Serial, Usuário, Senha)
   >     
-  >     6- Pegue o serial do player e busque no banco de dados suas informações(Usuário e Senha), em seguida logue o player com as informações retornadas
+  >     **6.** Pegue o serial do player e busque no banco de dados suas informações(Usuário e Senha), em seguida logue o player com as informações retornadas
 
 </details>
 
