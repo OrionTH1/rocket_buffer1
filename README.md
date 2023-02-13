@@ -32,21 +32,53 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
   
   > <h4>Sistema de cadastro / login automático por serial</h4>
   >
-  > - [X] Um sistema de cadastro e um login automático por serial. Na primeira que o player acessar o servidor será necessário um cadastro manual, assim seu cadastro será salvo e na próxima vez que ele entrar, será feito um login automático de acordo com a senha e usuário salvo <span id="first-step"></span>
-  > - [ ] 2 <span id="second-step"></span>
-  <ul>
-    <ul>
-      <li>`Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, confirmarSenha)`</a></li>
-      <li>`Banco de Dados Contendo: (Serial, Usuário, Senha)`</a></li>
-      <li><a href="https://wiki.multitheftauto.com/wiki/OnPlayerJoin">`onPlayerJoin`</a></li>
-      <li><a href="https://wiki.multitheftauto.com/wiki/AddAccount">`addAccount`</a></li>
-      <li><a href="https://wiki.multitheftauto.com/wiki/LogIn">`logIn`</a></li>
-    </ul>
-  </ul>
-  > - [ ] 3 <span id="third-step"></span>
-  > - [ ] 4 <span id="fourth-step"></span>
+  > 1. <span id="first-step">Um sistema de cadastro e um login automático por serial. </span>
+  > <br/>
+  >
+  > 2. <span id="second-step">O que será usado no projeto: </span>
+  >
+  >     - [ ] Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, confirmarSenha)
+  >
+  >     - [ ] Banco de Dados Contendo: (Serial, Usuário, Senha)</a>
+  >
+  >     - <a href="https://wiki.multitheftauto.com/wiki/OnPlayerJoin"><em>onPlayerJoin</em></a>
+  >     
+  >     - <a href="https://wiki.multitheftauto.com/wiki/AddAccount"><em>addAccount</em></a>
+  >     
+  >     - <a href="https://wiki.multitheftauto.com/wiki/LogIn"><em>logIn</em></a>
+  >     
+  > <br/>
+  > 
+  > 3. <span id="third-step">Features: </span>
+  > 
+  >     - [ ] Cadastro com usuário e senha
+  >     
+  >     - [ ] Login automático de acordo com o serial 
+  >     
+  >     - Outros:
+  >       - [ ] Naveção por TAB
+  >       
+  >       - [ ] Botão que permita esconder/mostrar a senha digitada
+  > 
+  > <br/>
+  > 
+  > 4. <span id="fourth-step">Funcionamento: </span>
+  > 
+  >     1- Quando o player entrar pegue o seu serial e verifique se ele está existente no banco de dados: (Se sim pule para a etapa 6, se não continue).
+  >     
+  >     2- Mostre a tela de cadastro e capture todas a informações digitadas nos campos(Usuário, Senha, comfirmarSenha.
+  >     
+  >     3- Verique se as senhas dos campos(senha, confirmarSenha) são iguais.
+  >     
+  >     4- Crie uma conta com todas as informações capturadas dos campo.
+  >     
+  >     5- Envie para o banco de Dados todas as informações capturadas no processo (Serial, Usuário, Senha)
+  >     
+  >     6- Pegue o serial do player e busque no banco de dados suas informações(Usuário e Senha), em seguida logue o player com as informações retornadas
 
 </details>
+
+
 
 
 <h2 id="folder-structure">Estruturas de pastas</h1>
