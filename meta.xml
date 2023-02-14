@@ -1,0 +1,30 @@
+<meta>
+    <info author="Orion" name="loginServer"/>
+
+
+    <!-- Public -->
+    <file src=""/>
+
+
+    <!-- Source/Client -->
+    <script src="" type="client" cache="false"/>
+
+
+    <!-- Source/Server -->
+    <script src="" type="server"/>
+
+
+    <!-- Source/Events/* -->
+    <script src="" type="client"/>
+    <script src="" type="server"/>
+
+
+    <!-- Source/Utils -->
+    <script src="">
+
+
+    <!-- Config -->
+
+    <download_priority_group>1</download_priority_group>
+
+</meta>
