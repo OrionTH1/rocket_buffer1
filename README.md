@@ -105,15 +105,15 @@
   <br/>
 
   - <h3>Public</h3>
-  
-    > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+
+    > <img src="https://user-images.githubusercontent.com/95851792/218883668-1bfde26d-4cc2-4d70-88d5-c5de1d306543.png"></img>
     > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
   
   <br/>
   
   - <h3>Source</h3>
-  
-    > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+
+    > <img src="https://user-images.githubusercontent.com/95851792/218883369-1567812c-5ab3-40d3-aedd-b706127366c7.png"></img>
     >
     > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
     
@@ -121,7 +121,7 @@
     
     - <h3>Core</h3>
 
-      > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+      > <img src="https://user-images.githubusercontent.com/95851792/218883772-f7eaef7f-8bfd-4766-aa5d-3990942097eb.png"></img>
       >
       > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
       
@@ -129,7 +129,7 @@
       
     - <h3>Events</h3>
 
-      > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+      > <img src="https://user-images.githubusercontent.com/95851792/218883949-deb01a69-6c66-42d7-bc15-1aaacc835bc4.png"></img>
       >
       > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
       
@@ -137,7 +137,7 @@
       
     - <h3>Utils</h3>
 
-      > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+      > <img src="https://user-images.githubusercontent.com/95851792/218884097-eddafd98-879c-4e03-8b89-dc05a84179a8.png"></img>
       >
       > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
       
@@ -145,7 +145,7 @@
       
   - <h3>Arquivos gerais</h3>
 
-    > <img src="https://user-images.githubusercontent.com/95851792/218877350-a0b77dae-ee4d-4d92-b9ec-b1c90475f38d.png"></img>
+    > <img src="https://user-images.githubusercontent.com/95851792/218884258-69c53540-f03f-4187-8153-1f6c45c6f6db.png"></img>
     >
     > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
   
@@ -155,8 +155,8 @@
   <summary><h3>Ideia final</h3></summary>
   
   <br/>
-  
-  <img src="https://user-images.githubusercontent.com/95851792/218861870-19adb83d-cbf7-496f-aa7d-eb0100f92119.png"></img>
+
+  <img src="https://user-images.githubusercontent.com/95851792/218884547-56b4d081-c596-446b-b5f9-b46facee806f.png"></img>
       
   </details>
   
