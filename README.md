@@ -9,7 +9,6 @@ Rocket Buffer é um conjunto de aulas disponibilizada pela [Discover](https://di
 <ul>
   <li><a href="#first-step-dev">Primeira etapa do desenvolvimento</a></li>
   <li><a href="#folder-structure">Estruturas de pastas</a></li>
-  <li><a href="#solid">SOLID</a></li>
 </ul>
 
 <br/>
@@ -81,9 +80,12 @@ Ir para o <a href="#folder-structure">próximo tópico</a>
 
 </details>
 
-
-
-
 <h2 id="folder-structure">Estruturas de pastas</h1>
 
-<h2 id="solid">SOLID</h1>
+> Estruturas de pastas são formas de estruturar seu projeto, se bem usada pode trazer os seguintes benefícios
+> - Uma organização e legibilidade grande para o projeto;
+> - Torna mais fácil o trabalho em grupo;
+> - Torna o projeto mais profissional;
+> - [...].
+> 
+> Entre outros benefícios. Estruturar bem seu projeto é o que difencia você de um profissional e um amador
