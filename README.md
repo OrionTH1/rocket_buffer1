@@ -3,7 +3,7 @@
 
   <h4>Um conjunto de aulas disponibilizada pela <a href="https://discord.gg/Bzx3tzJw">Discover</a> com o intuito de compartilhar <strong>conhecimento</strong> e <strong>aprendizado</strong> com a <strong>comunidade</strong>!<h4>
   
-  <p><a href="">Português-Brasileiro<a/>  · <a href="">English</a> </p>
+  <p><a href="https://github.com/OrionTH1/rocket_buffer1/blob/main/README.md">Português-Brasileiro<a/>  · <a href="">English</a> </p>
   
 </div>
     
