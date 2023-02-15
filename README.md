@@ -77,7 +77,7 @@
   >     
   >     **2.** Mostre a tela de cadastro e capture todas a informações digitadas nos campos(Usuário, Senha, comfirmarSenha.
   >     
-  >     **3.** Verique se as senhas dos campos(senha, confirmarSenha) são iguais.
+  >     **3.** Verifique se as senhas dos campos(senha, confirmarSenha) são iguais.
   >     
   >     **4.** Crie uma conta com todas as informações capturadas dos campo.
   >     
