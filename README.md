@@ -29,7 +29,7 @@
   >  <li>Como será o funcionamento do projeto.</li>
 > </ul>
 >
-> Um caminho a pecorrer é importante, sem ele o desenvolvedor ficará perdido, sem saber o que fazer, implementar e remover
+> Um caminho a percorrer é importante, sem ele o desenvolvedor ficará perdido, sem saber o que fazer, implementar e remover
 
 
 
