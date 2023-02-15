@@ -97,7 +97,7 @@
 > - Torna o projeto mais profissional;
 > - [...].
 > 
-> Entre outros benefícios. Estruturar bem seu projeto é o que difencia você de um profissional e um amador
+> Entre outros benefícios. Estruturar bem seu projeto é umas das características que torna você um profissional melhor
 
 <details>
 <summary><strong>Exemplo de estrutura de pasta</strong></summary>
