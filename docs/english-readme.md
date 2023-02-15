@@ -9,45 +9,45 @@
     
 <br/>
 
-<h2>Tópicos da aula</h2>
+<h2>Lessons Topics</h2>
 
 <ul>
-  <li><a href="#first-step-dev">Primeira etapa do desenvolvimento</a></li>
-  <li><a href="#folder-structure">Estruturas de pastas</a></li>
+  <li><a href="#first-step-dev">First step of development</a></li>
+  <li><a href="#folder-structure">Folder Structures</a></li>
 </ul>
 
 <br/>
 <br/>
 
-<h2 id="first-step-dev">Primeira etapa do desenvolvimento</h1>
+<h2 id="first-step-dev">First step of development</h1>
 
-> A primeira etapa do desenvolvimento é o pensamento, a criação do algoritmo, é preciso pensar em:
+> The first step of development is thinking, the creation of the algorithm, you need to think about:
 > <ul>
-  >  <li>O que será o projeto;</li>
-  >  <li>O que será usado no projeto;</li>
-  >  <li>Quais features o projeto terá;</li>
-  >  <li>Como será o funcionamento do projeto.</li>
+  >  <li>What the project will be;</li>
+  >  <li>What will be used in the project;</li>
+  >  <li>What features will the project have;</li>
+  >  <li>How the project will work.</li>
 > </ul>
 >
-> Um caminho a percorrer é importante, sem ele o desenvolvedor ficará perdido, sem saber o que fazer, implementar e remover
+> A way to go is important, without it the developer will be lost, not knowing what to do, implement and remove.
 
 
 
 <details>
-<summary><strong>Exemplo de projeto</strong></summary>
+<summary><strong>Project example</strong></summary>
   
   <br/>
   
-  > <h4>Sistema de cadastro / login automático por serial</h4>
+  > <h4>Sign up system / automatic login by serial</h4>
   >
-  > 1. Um sistema de cadastro e um login automático por serial.
+  > 1. A sign up system and a automatic login by serial.
   > <br/>
   >
-  > 2. O que será usado no projeto:
+  > 2. What will be used in the project:
   >
-  >     - [ ] Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, confirmarSenha)
+  >     - [ ] A UI of a sign up form containing inputs of (User, Password, confirmPassword)
   >
-  >     - [ ] Banco de Dados Contendo: (Serial, Usuário, Senha)</a>
+  >     - [ ] Database Containing: (Serial, User, Password)
   >
   >     - <a href="https://wiki.multitheftauto.com/wiki/OnPlayerJoin"><em>onPlayerJoin</em></a>
   >     
@@ -59,55 +59,55 @@
   > 
   > 3. Features:
   > 
-  >     - [ ] Cadastro com usuário e senha
+  >     - [ ] Sign up with username and password
   >     
-  >     - [ ] Login automático de acordo com o serial 
+  >     - [ ] Automatic login according to serial
   >     
-  >     - Outros:
-  >       - [ ] Navegação por TAB
+  >     - Others:
+  >       - [ ] TAB navigation
   >       
-  >       - [ ] Botão que permita esconder/mostrar a senha digitada
+  >       - [ ] Button that allows you to hide/show the typed password
   > 
   > <br/>
   > 
-  > 4. Funcionamento:
+  > 4. How will work.:
   > 
   > 
-  >     **1.** Quando o player entrar pegue o seu serial e verifique se ele está existente no banco de dados: (Se sim pule para a etapa 6, se não continue).
+  >     **1.** When the player enters, take your serial and check if it exists in the database: (If yes, skip to step 6, else continue).
   >     
-  >     **2.** Mostre a tela de cadastro e capture todas a informações digitadas nos campos(Usuário, Senha, comfirmarSenha.
+  >     **2.** Show the registration screen and capture all the information typed in the inputs(User, Password, confirmPassword.
   >     
-  >     **3.** Verifique se as senhas dos campos(Senha, comfirmarSenha) são iguais.
+  >     **3.** Verify if the passwords in the inputs(Password, confirmPassword) are equals.
   >     
-  >     **4.** Crie uma conta com as informações capturadas dos campos(Usuário, Senha).
+  >     **4.** Create an account with the informations captured from the inputs(User, Password).
   >     
-  >     **5.** Envie para o banco de dados todas as informações capturadas no processo (Serial, Usuário, Senha)
+  >     **5.** Send to the database all the information captured in the process (Serial, User, Password)
   >     
-  >     **6.** Pegue o serial do player e busque no banco de dados suas informações(Usuário e Senha), em seguida logue o player com as informações retornadas
+  >     **6.** Take the player's serial and search in the database your informations (Username and Password), then login the player with the information returned
 
 </details>
 
 <br/>
 
-<h2 id="folder-structure">Estruturas de pastas</h1>
+<h2 id="folder-structure">Folder Structures</h1>
 
-> Estruturas de pastas são formas de estruturar seu projeto, se bem usadas pode trazer os seguintes benefícios:
-> - Uma organização e legibilidade grande para o projeto;
-> - Torna mais fácil o trabalho em grupo;
-> - Torna o projeto mais profissional;
+> Folder structures are ways of structuring your project, if used correctly can bring the following benefits:
+> - A great organization and readability for the project;
+> - Makes group work be most easy;
+> - Makes project more professional;
 > - [...].
 > 
-> Entre outros benefícios. Estruturar bem seu projeto é umas das características que torna você um profissional melhor.
+> And other benefits. Structuring your project well is one of the characteristics that make you a better professional..
 
 <details>
-<summary><strong>Exemplo de estrutura de pasta</strong></summary>
+<summary><strong>Folder Structures Example</strong></summary>
 
   <br/>
 
   - <h3>Public</h3>
 
     > <img src="https://user-images.githubusercontent.com/95851792/218883668-1bfde26d-4cc2-4d70-88d5-c5de1d306543.png"></img>
-    > <p>Tudo aquilo público, como os assets(imagens, ícones e etc) do projeto e entres outras coisas.</p>
+    > <p>Everything that is public, such as the project's assets(images, icons, etc...) and other things.</p>
   
   <br/>
   
@@ -115,7 +115,7 @@
 
     > <img src="https://user-images.githubusercontent.com/95851792/218883369-1567812c-5ab3-40d3-aedd-b706127366c7.png"></img>
     >
-    > <p>É a fonte do nosso código, aonde está o funcionamento principal do código.</p>
+    > <p>It is the source of our code, where the main functioning of the code is.</p>
     
     <br/>
     
@@ -123,7 +123,7 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218883772-f7eaef7f-8bfd-4766-aa5d-3990942097eb.png"></img>
       >
-      > <p>Aqui está o código principal, aonde tudo se junta para ocorrer o funcionamento do código.</p>
+      > <p>Here is the main code, where everything comes together to make the code work.</p>
       
       <br/>
       
@@ -131,7 +131,7 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218883949-deb01a69-6c66-42d7-bc15-1aaacc835bc4.png"></img>
       >
-      > <p>Aqui ficam os listens, que quando disparados, chamam outra parte ou função do código.</p>
+      > <p>Here are the listens, which when triggered, call another part or function of the code.</p>
       
       <br/>
       
@@ -139,20 +139,20 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218884097-eddafd98-879c-4e03-8b89-dc05a84179a8.png"></img>
       >
-      > <p>Aqui ficam algumas utilidades, que podem ser exportadas posteriormente para outra parte do código.</p>
+      > <p>Here are some utilities, which can be exported later to another part of the code.</p>
       
    <br/>
       
-  - <h3>Arquivos gerais</h3>
+  - <h3>General files</h3>
 
     > <img src="https://user-images.githubusercontent.com/95851792/218884258-69c53540-f03f-4187-8153-1f6c45c6f6db.png"></img>
     >
-    > <p>Arquivos gerais são todos aqueles que não tem um tópico definido ou os que são recomendados está no escopo inicial da pasta como o meta.xml, .git e entre outros.</p>
+    > <p>General files are all those that do not have a defined topic or those that are recommended are in the initial scope of the folder, such as meta.xml, .git and etc.</p>
   
   <br/>
 
   <details>
-  <summary><h3>Ideia final</h3></summary>
+  <summary><h3>Final Folder Structure</h3></summary>
   
   <br/>
 
