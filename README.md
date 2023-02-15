@@ -6,8 +6,8 @@
   <p><a href="">Português-Brasileiro<a/>  · <a href="">English</a> </p>
   
 </div>
+    
 <br/>
-
 
 <h2>Tópicos da aula</h2>
 
@@ -115,7 +115,7 @@
 
     > <img src="https://user-images.githubusercontent.com/95851792/218883369-1567812c-5ab3-40d3-aedd-b706127366c7.png"></img>
     >
-    > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
+    > <p>É a fonte do nosso código, aonde está o funcionamento principal do código.</p>
     
     <br/>
     
@@ -123,7 +123,7 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218883772-f7eaef7f-8bfd-4766-aa5d-3990942097eb.png"></img>
       >
-      > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
+      > <p>Código principal, aonde tudo se junta para ocorrer o funcionamento do código.</p>
       
       <br/>
       
@@ -131,7 +131,7 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218883949-deb01a69-6c66-42d7-bc15-1aaacc835bc4.png"></img>
       >
-      > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
+      > <p>Aonde estão os listens, que quando disparados, chamam outra parte ou função do código.</p>
       
       <br/>
       
@@ -139,7 +139,7 @@
 
       > <img src="https://user-images.githubusercontent.com/95851792/218884097-eddafd98-879c-4e03-8b89-dc05a84179a8.png"></img>
       >
-      > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
+      > <p>Aqui estão algumas utilidades que podem ser exportadas posteriormente para outra parte do código.</p>
       
    <br/>
       
@@ -147,7 +147,7 @@
 
     > <img src="https://user-images.githubusercontent.com/95851792/218884258-69c53540-f03f-4187-8153-1f6c45c6f6db.png"></img>
     >
-    > <p>Tudo aquilo público, como os assets do projeto(imagens, ícones e etc) e entres outros.</p>
+    > <p>Arquivos gerais são todos aqueles que não tem um tópico definido ou os que são recomendados está no escopo principal da pasta(exemplo: folder/ -> ./ como o meta.xml, .git e entre outros</p>
   
   <br/>
 
