@@ -45,7 +45,7 @@
   >
   > 2. O que será usado no projeto:
   >
-  >     - [ ] Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, confirmarSenha)
+  >     - [ ] Uma UI de um painel de cadastro contendo campos de (Usuário, Senha, comfirmarSenha)
   >
   >     - [ ] Banco de Dados Contendo: (Serial, Usuário, Senha)</a>
   >
@@ -115,7 +115,7 @@
 
     > <img src="https://user-images.githubusercontent.com/95851792/218883369-1567812c-5ab3-40d3-aedd-b706127366c7.png"></img>
     >
-    > <p>É a fonte do nosso código, aonde está o funcionamento principal do código.</p>
+    > <p>É a fonte do nosso código, onde está o funcionamento principal do código.</p>
     
     <br/>
     
