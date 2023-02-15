@@ -91,13 +91,13 @@
 
 <h2 id="folder-structure">Estruturas de pastas</h1>
 
-> Estruturas de pastas são formas de estruturar seu projeto, se bem usada pode trazer os seguintes benefícios
+> Estruturas de pastas são formas de estruturar seu projeto, se bem usadas pode trazer os seguintes benefícios:
 > - Uma organização e legibilidade grande para o projeto;
 > - Torna mais fácil o trabalho em grupo;
 > - Torna o projeto mais profissional;
 > - [...].
 > 
-> Entre outros benefícios. Estruturar bem seu projeto é umas das características que torna você um profissional melhor
+> Entre outros benefícios. Estruturar bem seu projeto é umas das características que torna você um profissional melhor.
 
 <details>
 <summary><strong>Exemplo de estrutura de pasta</strong></summary>
