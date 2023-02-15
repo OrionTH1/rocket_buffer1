@@ -64,7 +64,7 @@
   >     - [ ] Login automático de acordo com o serial 
   >     
   >     - Outros:
-  >       - [ ] Naveção por TAB
+  >       - [ ] Navegação por TAB
   >       
   >       - [ ] Botão que permita esconder/mostrar a senha digitada
   > 
