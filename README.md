@@ -81,7 +81,7 @@
   >     
   >     **4.** Crie uma conta com as informações capturadas dos campos(Usuário, Senha).
   >     
-  >     **5.** Envie para o Banco de Dados todas as informações capturadas no processo (Serial, Usuário, Senha)
+  >     **5.** Envie para o banco de dados todas as informações capturadas no processo (Serial, Usuário, Senha)
   >     
   >     **6.** Pegue o serial do player e busque no banco de dados suas informações(Usuário e Senha), em seguida logue o player com as informações retornadas
 
